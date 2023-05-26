@@ -1,0 +1,5 @@
+#middle {
+    /* change it back to normal change to block */
+    display: inline;
+    /* display: block; */
+}
